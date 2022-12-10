@@ -24,8 +24,10 @@
 
 ### 1. Konfigurasi Strix menggunakan iptables, tetapi Loid tidak ingin menggunakan MASQUERADE.
 
-![Gambar Full](./images/full.png)
+![Gambar 1](./images/1.png)
 <br>
+
+> Pada soal ini, konfigurasi yang terdapat pada node STRIX adalah seperti pada gambar
 
 <hr>
 <br>
